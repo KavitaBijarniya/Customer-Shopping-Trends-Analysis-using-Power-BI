@@ -4,9 +4,11 @@
 
 
 **Overview**
+
 This Power BI project explores customer shopping behavior by analyzing trends across multiple dimensions such as gender, category, location, and more. The dashboard offers a comprehensive view of key metrics to help drive data-informed business decisions.
 
 **Key Insights**
+
 🛍️ Purchase patterns by gender, product category, size, and location
 
 📆 Seasonal trends and purchase frequency
